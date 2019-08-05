@@ -12,8 +12,7 @@ public class Calculator {
 
     I am making changes in remote repository
 
-    public static double devide (double n1, double n2){
-        double res= n1/n2;
-        return res;
+        public static double devide (double num1 ,double num2){
+    return num1/num2;
     }
 }
