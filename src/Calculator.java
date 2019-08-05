@@ -8,5 +8,12 @@ public class Calculator {
     public static double mulitply (double num1, double num2){
         return num1*num2;
     }
- i am making change to my Repository
+
+
+    I am making changes in remote repository
+
+    public static double devide (double n1, double n2){
+        double res= n1/n2;
+        return res;
+    }
 }
